@@ -28,7 +28,7 @@ redirect_from:
 
 ### TEACHING
 
-#### Course Instructor – University of Toronto
+**Course Instructor – University of Toronto**
 
 | Term        | Course |
 |------------|-----------------|
@@ -40,7 +40,7 @@ redirect_from:
 | 2023 Fall   | Introduction to R, Data Learning Certificate, Data Science Institute |
 | 2023 Summer | Introduction to R, Data Learning Certificate, Data Science Institute **– TA & CI role** |
 
-#### Teaching Assistantships – University of Toronto
+**Teaching Assistantships – University of Toronto**
 
 | Term        | Course |
 |------------|---------------|
@@ -79,7 +79,7 @@ redirect_from:
 | 2022 Fall   | Advanced Research Methods Laboratory (PSYC70), undergraduate, Psychology |
 | 2022 Summer | Neurobiology of Behavior (HMB300), undergraduate, Human Biology |
 
-#### Evaluator – University of Toronto
+**Evaluator – University of Toronto**
 
 | Term        | Course |
 |------------|-------|
@@ -141,7 +141,6 @@ redirect_from:
 
 **Peer-Reviewed Papers**
 
-
 | #  | Authors | Year | Journal | Link |
 |----|---------|------|---------|------|
 | 11  | Bagheri S., Yu J.C., **Gallucci J.**, Tan V., Oliver L.D., Dickie E.W., Rashidi A.G., Foussias G., Lai M., Buchanan R.W., Malhotra A.K., Voineskos A.N., Ameis S.H., Hawco C. | 2025 | Biological Psychiatry CNNI | [Link](https://www.sciencedirect.com/science/article/abs/pii/S2451902225001326?via%3Dihub) |
@@ -166,7 +165,7 @@ redirect_from:
 
 ### PRESENTATIONS
 
-#### Oral Presentations
+**Oral Presentations**
 
 | Year | Presentation |
 |------|-------------|
@@ -176,7 +175,7 @@ redirect_from:
 | 2022 | Longer Duration of Illness is Associated with Greater Individual Variability in Functional Brain Activity in Schizophrenia, but not Bipolar Disorder. University of Toronto Department of Psychiatry Research Day [virtual] |
 | 2022 | Greater Individual Variability in Functional Brain Activity during Working Memory Performance in Schizophrenia Spectrum Disorders (SSD). The Hospital of Sick Children, Keith Tanswell Symposium [virtual] |
 
-#### Poster Presentations
+**Poster Presentations**
 
 | Year | Presentation |
 |------|-------------|
@@ -196,7 +195,7 @@ redirect_from:
 | 2022 | Greater Individual Variability in Functional Brain Activity during Working Memory Performance in Schizophrenia Spectrum Disorders (SSD), Schizophrenia International Research Society (SIRS), Florence, Italy. **– poster finalist** |
 | 2021 | Individual Variability in Functional Brain Activity during Working Memory Performance in Schizophrenia Spectrum Disorders (SSD). University of Toronto Department of Psychiatry Research Day, Toronto, Canada [virtual]. |
 
-#### Invited Talks & Guest Lectures
+**Invited Talks & Guest Lectures**
 
 | Year | Talk / Lecture |
 |------|----------------|
