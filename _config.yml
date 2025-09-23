@@ -30,14 +30,11 @@ author:
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=9Kbn-9oAAAAJ&hl=en"
-  pubmed           : "https://pubmed-ncbi-nlm-nih-gov.myaccess.library.utoronto.ca/?term=julia+gallucci"
-  researchgate     : "https://www.researchgate.net/profile/Julia-Gallucci-4/research"
 
   # Repositories and software development
   github           : "juliagallucci"
 
   # Social media
-  bluesky          : "juliagallucci.bsky.social" # Replace this with you Bluesky username
   linkedin         : "https://www.linkedin.com/in/julia-gallucci-8a125a131/"
 
 # Publication Category - The following the list of publication categories and their headings
