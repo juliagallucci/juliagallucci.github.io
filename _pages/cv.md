@@ -154,7 +154,7 @@ redirect_from:
 | 4  | Voineskos A.N., Hawco C., Neufeld N.H., Turner J.A., Ameis S.H., Anticevic A., Buchanan R.W., Cadenhead K., Dazzan P., Dickie E.W., **Gallucci J.**, Lahti A., Malhotra A.K., Öngür D., Lencz T., Sarpal D.K., Oliver L.D. | 2024 | World Psychiatry | [Link](https://doi-org.myaccess.library.utoronto.ca/10.1002/wps.21159) |
 | 3  | Ramsaran A.I., Wang Y., Golbabaei A., Aleshin S., de Snoo M.L., Yeung B.A., Rashid A.J., Awasthi A., Lau J., Tran L.M., Ko S.Y., Abegg A., Duan L.C., McKenzie C., **Gallucci J.**, Ahmed M., Kaushik R., Dityatev A., Josselyn S.A., Frankland P.W. | 2023 | Science | [Link](https://www.science.org/doi/10.1126/science.ade6530) |
 | 2 | **Gallucci J.**, Pomarol-Clotet E., Voineskos A.N., Guerrero-Pedraza A., Alonso-Lana S., Vieta E., Salvador R., Hawco C. | 2022 | NeuroImage: Clinical | [Link](https://doi.org/10.1016/j.nicl.2022.103269) |
-| 1 | **Gallucci J.**, Tan T., Schifani C., Dickie E.W., Voineskos A.N., Hawco C. | 2022 | Schizop | [Link]() |
+| 1 | **Gallucci J.**, Tan T., Schifani C., Dickie E.W., Voineskos A.N., Hawco C. | 2022 | Schizophrenia Research | [Link](10.1016/j.schres.2022.07.012) |
 
 **Theses**
 
