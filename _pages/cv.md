@@ -12,13 +12,6 @@ redirect_from:
 
 ## JULIA GALLUCCI
 
-**Department of Institute of Medical Science, Faculty of Medicine**  
-University of Toronto  
-
-**Brain Health Imaging Centre | Centre for Addiction and Mental Health (CAMH)**  
-
-julia.gallucci@mail.utoronto.ca | [LinkedIn](https://www.linkedin.com/in/julia-gallucci-8a125a131/)
-
 ---
 
 ### EDUCATION
@@ -148,19 +141,20 @@ julia.gallucci@mail.utoronto.ca | [LinkedIn](https://www.linkedin.com/in/julia-g
 
 **Peer-Reviewed Papers**
 
-*(numbered newest to oldest with links)*
 
-1. [Bagheri S., Yu J.C., **Gallucci J.**, Tan V., Oliver L.D., Dickie E.W., Rashidi A.G., Foussias G., Lai M., Buchanan R.W., Malhotra A.K., Voineskos A.N., Ameis S.H., Hawco C., 2025, Biological Psychiatry CNNI](https://www.sciencedirect.com/science/article/abs/pii/S2451902225001326?via%3Dihub)  
-2. [Ramsaran A.I., Ventura S., **Gallucci J.**, de Snoo M.L., Josselyn S.A., Frankland P.W., 2025, Current Biology](https://doi.org/10.1016/j.cub.2025.03.032)  
-3. [Jones B.D.M., **Gallucci J.**, Zhukovsky P., Jones O.Y., Wong S., Lakhani K., Farooqui R., Stripe L., Love P., Voineskos A.N., Ortiz A., Hawco C., Mulsant B.H., Husain M.I., 2025, Neuropsychopharmacology](https://www-nature-com.myaccess.library.utoronto.ca/articles/s41386-025-02096-1)  
-4. [**Gallucci J.**, Ng J., Secara M.T., Jones B.D.M., Hawco C., Husain M.O., Husain N., Chaudhtry I.B., Voineskos A.N., Husain M.I., 2025, BJPsych Open](https://www.cambridge.org/core/journals/bjpsych-open/article/longitudinal-study-of-changes-in-depressive-symptoms-and-risk-factors-for-congestive-heart-failure/81AA80EAA5B7113BA62ADFE94D3C9925)  
-5. [**Gallucci J.**, Yu J.C., Oliver L.D., Nakua H., Zhukovsky P., Dickie E.W., Daskalakis Z.J., Foussias G., Blumberger D.M., Hawco C., Voineskos A.N., 2024, American Journal of Psychiatry](https://psychiatryonline.org/doi/10.1176/appi.ajp.20230655)  
-6. [**Gallucci J.**, Secara M.T., Chen O., Oliver L.D., Jones B.D.M., Marawi T., Foussias G., Voineskos A.N., Hawco C., 2024, Schizophrenia](https://www.nature.com/articles/s41537-024-00478-w)  
-7. [Secara M.T., Oliver L.D., **Gallucci J.**, Dickie E.W., Malhotra A.K., Buchanan R.W., Voineskos A.N., Hawco C., 2024, Progress in Neuropsychopharmacology & Biological Psychiatry](https://doi.org/10.1016/j.pnpbp.2024.110991)  
-8. [Voineskos A.N., Hawco C., Neufeld N.H., Turner J.A., Ameis S.H., Anticevic A., Buchanan R.W., Cadenhead K., Dazzan P., Dickie E.W., **Gallucci J.**, Lahti A., Malhotra A.K., Öngür D., Lencz T., Sarpal D.K., Oliver L.D., 2024, World Psychiatry](https://doi-org.myaccess.library.utoronto.ca/10.1002/wps.21159)  
-9. [Ramsaran A.I., Wang Y., Golbabaei A., Aleshin S., de Snoo M.L., Yeung B.A., Rashid A.J., Awasthi A., Lau J., Tran L.M., Ko S.Y., Abegg A., Duan L.C., McKenzie C., **Gallucci J.**, Ahmed M., Kaushik R., Dityatev A., Josselyn S.A., Frankland P.W., 2023, Science](https://www.science.org/doi/10.1126/science.ade6530)  
-10. [**Gallucci J.**, Pomarol-Clotet E., Voineskos A.N., Guerrero-Pedraza A., Alonso-Lana S., Vieta E., Salvador R., Hawco C., 2022, NeuroImage: Clinical](https://doi.org/10.1016/j.nicl.2022.103269)  
-11. [**Gallucci J.**, Tan T., Schifani C., Dickie E.W., Voineskos A.N., Hawco C., 2022, Schizop]()
+| #  | Authors | Year | Journal | Link |
+|----|---------|------|---------|------|
+| 11  | Bagheri S., Yu J.C., **Gallucci J.**, Tan V., Oliver L.D., Dickie E.W., Rashidi A.G., Foussias G., Lai M., Buchanan R.W., Malhotra A.K., Voineskos A.N., Ameis S.H., Hawco C. | 2025 | Biological Psychiatry CNNI | [Link](https://www.sciencedirect.com/science/article/abs/pii/S2451902225001326?via%3Dihub) |
+| 10  | Ramsaran A.I., Ventura S., **Gallucci J.**, de Snoo M.L., Josselyn S.A., Frankland P.W. | 2025 | Current Biology | [Link](https://doi.org/10.1016/j.cub.2025.03.032) |
+| 9  | Jones B.D.M., **Gallucci J.**, Zhukovsky P., Jones O.Y., Wong S., Lakhani K., Farooqui R., Stripe L., Love P., Voineskos A.N., Ortiz A., Hawco C., Mulsant B.H., Husain M.I. | 2025 | Neuropsychopharmacology | [Link](https://www-nature-com.myaccess.library.utoronto.ca/articles/s41386-025-02096-1) |
+| 8  | **Gallucci J.**, Ng J., Secara M.T., Jones B.D.M., Hawco C., Husain M.O., Husain N., Chaudhtry I.B., Voineskos A.N., Husain M.I. | 2025 | BJPsych Open | [Link](https://www.cambridge.org/core/journals/bjpsych-open/article/longitudinal-study-of-changes-in-depressive-symptoms-and-risk-factors-for-congestive-heart-failure/81AA80EAA5B7113BA62ADFE94D3C9925) |
+| 7  | **Gallucci J.**, Yu J.C., Oliver L.D., Nakua H., Zhukovsky P., Dickie E.W., Daskalakis Z.J., Foussias G., Blumberger D.M., Hawco C., Voineskos A.N. | 2024 | American Journal of Psychiatry | [Link](https://psychiatryonline.org/doi/10.1176/appi.ajp.20230655) |
+| 6  | **Gallucci J.**, Secara M.T., Chen O., Oliver L.D., Jones B.D.M., Marawi T., Foussias G., Voineskos A.N., Hawco C. | 2024 | Schizophrenia | [Link](https://www.nature.com/articles/s41537-024-00478-w) |
+| 5  | Secara M.T., Oliver L.D., **Gallucci J.**, Dickie E.W., Malhotra A.K., Buchanan R.W., Voineskos A.N., Hawco C. | 2024 | Progress in Neuropsychopharmacology & Biological Psychiatry | [Link](https://doi.org/10.1016/j.pnpbp.2024.110991) |
+| 4  | Voineskos A.N., Hawco C., Neufeld N.H., Turner J.A., Ameis S.H., Anticevic A., Buchanan R.W., Cadenhead K., Dazzan P., Dickie E.W., **Gallucci J.**, Lahti A., Malhotra A.K., Öngür D., Lencz T., Sarpal D.K., Oliver L.D. | 2024 | World Psychiatry | [Link](https://doi-org.myaccess.library.utoronto.ca/10.1002/wps.21159) |
+| 3  | Ramsaran A.I., Wang Y., Golbabaei A., Aleshin S., de Snoo M.L., Yeung B.A., Rashid A.J., Awasthi A., Lau J., Tran L.M., Ko S.Y., Abegg A., Duan L.C., McKenzie C., **Gallucci J.**, Ahmed M., Kaushik R., Dityatev A., Josselyn S.A., Frankland P.W. | 2023 | Science | [Link](https://www.science.org/doi/10.1126/science.ade6530) |
+| 2 | **Gallucci J.**, Pomarol-Clotet E., Voineskos A.N., Guerrero-Pedraza A., Alonso-Lana S., Vieta E., Salvador R., Hawco C. | 2022 | NeuroImage: Clinical | [Link](https://doi.org/10.1016/j.nicl.2022.103269) |
+| 1 | **Gallucci J.**, Tan T., Schifani C., Dickie E.W., Voineskos A.N., Hawco C. | 2022 | Schizop | [Link]() |
 
 **Theses**
 
