@@ -30,7 +30,7 @@ redirect_from:
 
 #### Course Instructor – University of Toronto
 
-| Term        | Course & Details |
+| Term        | Course |
 |------------|-----------------|
 | 2026 Winter | Linear regression, classification, and resampling, Data Learning Certificate, Data Science Institute |
 | 2025 Fall   | Linear regression, classification, and resampling, Data Learning Certificate, Data Science Institute |
@@ -42,7 +42,7 @@ redirect_from:
 
 #### Teaching Assistantships – University of Toronto
 
-| Term        | Course & Role |
+| Term        | Course |
 |------------|---------------|
 | 2026 Winter | Introduction to Neuroscience (HMB200), undergraduate, Human Biology – **head TA** |
 | 2026 Winter | Laboratory in Human Biology (HMB314), undergraduate, Human Biology – **head TA** |
