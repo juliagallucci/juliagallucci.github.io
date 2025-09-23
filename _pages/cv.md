@@ -80,30 +80,29 @@ Graduate School Awards
 
 Publications
 ======
-11) Bagheri S., Yu J.C., **Gallucci J.**, Tan V.,  Oliver L.D.,  Dickie E.W., Rashidi A.G. , Foussias G., Lai M., Buchanan R.W, Malhotra A.K., Voineskos A.N., Ameis S.H., Hawco C., 2025. Social Cognition and Individual Variability as Measured by Fractional Amplitude of Low-Frequency Fluctuation in a Transdiagnostic Group of Schizophrenia and Autism Spectrum Disorders. Biological Psychiatry CNNI. S2451-9022(25)00132-6. [PMID: 40268245](10.1016/j.bpsc.2025.04.004)
+* Bagheri S., Yu J.C., **Gallucci J.**, Tan V.,  Oliver L.D.,  Dickie E.W., Rashidi A.G. , Foussias G., Lai M., Buchanan R.W, Malhotra A.K., Voineskos A.N., Ameis S.H., Hawco C., 2025. Social Cognition and Individual Variability as Measured by Fractional Amplitude of Low-Frequency Fluctuation in a Transdiagnostic Group of Schizophrenia and Autism Spectrum Disorders. Biological Psychiatry CNNI. S2451-9022(25)00132-6. [PMID: 40268245](10.1016/j.bpsc.2025.04.004)
     
-10) Ramsaran A.I., Ventura S., **Gallucci J.**, de Snoo M.L., Josselyn S.A., Frankland P.W., 2025. A sensitive period for the development of episodic-like memory in mice. Current Biology. S0960-9822(25)00317-3. [PMID:40215964](10.1016/j.cub.2025.03.032)
+* Ramsaran A.I., Ventura S., **Gallucci J.**, de Snoo M.L., Josselyn S.A., Frankland P.W., 2025. A sensitive period for the development of episodic-like memory in mice. Current Biology. S0960-9822(25)00317-3. [PMID:40215964](10.1016/j.cub.2025.03.032)
     
-9) Jones B.D.M., **Gallucci J.**, Zhukovsky P., Jones O.Y., Wong S., Lakhani K., Farooqui R., Stripe L., Love P., Voineskos A.N., Ortiz A., Hawco C., Mulsant B.H., Husain M.I., Identifying Brain-Cognition Associations in Bipolar Disorder: A Systematic Review and Meta-Analysis. Neuropsychopharmacology. [PMID:40274973](10.1038/s41386-025-02096-1)
+* Jones B.D.M., **Gallucci J.**, Zhukovsky P., Jones O.Y., Wong S., Lakhani K., Farooqui R., Stripe L., Love P., Voineskos A.N., Ortiz A., Hawco C., Mulsant B.H., Husain M.I., Identifying Brain-Cognition Associations in Bipolar Disorder: A Systematic Review and Meta-Analysis. Neuropsychopharmacology. [PMID:40274973](10.1038/s41386-025-02096-1)
     
-8) **Gallucci J.**, Ng J., Secara M.T., Jones B.D.M., Hawco C., Husain M.O., Husain N., Chaudhtry I.B., Voineskos A.N., Husain M.I., 2025. A longitudinal study of changes in depressive symptoms and risk factors in congestive heart failure. BJPsych Open. 11(3):e93. [PMID:40341068](10.1192/bjo.2025.41)
+* **Gallucci J.**, Ng J., Secara M.T., Jones B.D.M., Hawco C., Husain M.O., Husain N., Chaudhtry I.B., Voineskos A.N., Husain M.I., 2025. A longitudinal study of changes in depressive symptoms and risk factors in congestive heart failure. BJPsych Open. 11(3):e93. [PMID:40341068](10.1192/bjo.2025.41)
    
-7) **Gallucci J.**, Yu J.C., Oliver L.D., Nakua H., Zhukovsky P., Dickie E.W., Daskalakis Z.J., Foussias G., Blumberger D.M., Hawco C., Voineskos A.N., 2024. Neural circuitry and therapeutic targeting of depressive symptoms in schizophrenia spectrum disorders. **American Journal of Psychiatry.** 181(10):910-919. [PMID: 39350625](10.1176/appi.ajp.20230655)
+* **Gallucci J.**, Yu J.C., Oliver L.D., Nakua H., Zhukovsky P., Dickie E.W., Daskalakis Z.J., Foussias G., Blumberger D.M., Hawco C., Voineskos A.N., 2024. Neural circuitry and therapeutic targeting of depressive symptoms in schizophrenia spectrum disorders. **American Journal of Psychiatry.** 181(10):910-919. [PMID: 39350625](10.1176/appi.ajp.20230655)
    
-6) **Gallucci J.,** Secara M.T., Chen O., Oliver L.D., Jones B.D.M., Marawi T., Foussias G., Voineskos A.N., & Hawco C., 2024. A systematic review of structural and functional magnetic resonance imaging studies on the neurobiology of depressive symptoms in schizophrenia spectrum disorders. Schizophrenia. 4;10(1):59. [PMID:38961144](10.1038/s41537-024-00478-w)
+* **Gallucci J.,** Secara M.T., Chen O., Oliver L.D., Jones B.D.M., Marawi T., Foussias G., Voineskos A.N., & Hawco C., 2024. A systematic review of structural and functional magnetic resonance imaging studies on the neurobiology of depressive symptoms in schizophrenia spectrum disorders. Schizophrenia. 4;10(1):59. [PMID:38961144](10.1038/s41537-024-00478-w)
    
-5) Secara, M. T., Oliver, L. D., **Gallucci J.**, Dickie, E. W., Malhotra, A. K., Buchanan, R. W., Voineskos, A.N., & Hawco, C., 2024. Heterogeneity in Functional Connectivity: Dimensional Predictors of Individual Variability during Rest and Task fMRI in Psychosis. Prog. Neuropsychopharmacol. Biol. Psychiatry 110991. [PMID: 38484928](10.1016/j.pnpbp.2024.110991)
+* Secara, M. T., Oliver, L. D., **Gallucci J.**, Dickie, E. W., Malhotra, A. K., Buchanan, R. W., Voineskos, A.N., & Hawco, C., 2024. Heterogeneity in Functional Connectivity: Dimensional Predictors of Individual Variability during Rest and Task fMRI in Psychosis. Prog. Neuropsychopharmacol. Biol. Psychiatry 110991. [PMID: 38484928](10.1016/j.pnpbp.2024.110991)
    
-4) Voineskos, A. N., Hawco, C., Neufeld, N. H., Turner, J. A., Ameis, S. H., Anticevic, A., Buchanan, R. W., Cadenhead, K., Dazzan, P., Dickie, E. W., **Gallucci, J.**, Lahti, A., Malhotra, A. K., Öngür, D., Lencz, T., Sarpal, D. K., Oliver, L. D., 2024. Functional magnetic resonance 
+* Voineskos, A. N., Hawco, C., Neufeld, N. H., Turner, J. A., Ameis, S. H., Anticevic, A., Buchanan, R. W., Cadenhead, K., Dazzan, P., Dickie, E. W., **Gallucci, J.**, Lahti, A., Malhotra, A. K., Öngür, D., Lencz, T., Sarpal, D. K., Oliver, L. D., 2024. Functional magnetic resonance 
 Imaging in  schizophrenia: Current evidence, methodological advances, limitations and future directions. **World Psychiatry.** 23, 26:51. [PMID:38214624](10.1002/wps.21159)
 
-3) Ramsaran A.I., Wang Y., Golbabaei A., Aleshin S., de Snoo M.L., Yeung B.A., Rashid A.J., Awasthi A., Lau J., Tran L.M., Ko S.Y., Abegg A., Duan L.C., McKenzie C., **Gallucci J.**, Ahmed M., Kaushik R., Dityatev A., Josselyn S.A., Frankland P.W., 2023. A shift in the mechanisms 
+* Ramsaran A.I., Wang Y., Golbabaei A., Aleshin S., de Snoo M.L., Yeung B.A., Rashid A.J., Awasthi A., Lau J., Tran L.M., Ko S.Y., Abegg A., Duan L.C., McKenzie C., **Gallucci J.**, Ahmed M., Kaushik R., Dityatev A., Josselyn S.A., Frankland P.W., 2023. A shift in the mechanisms 
 controlling hippocampal engram formation during brain maturation. **Science.** 380(6644):543551. [PMID:37141366](10.1126/science.ade6530)
 
-2) **Gallucci J.**, Pomarol-Clotet E., Voineskos A.N., Guerrero-Pedraza A., Alonso-Lana S., Vieta E., Salvador R., Hawco C., 2022. Longer illness duration is associated with greater individual variability in functional brain activity in schizophrenia, but not bipolar disorder, NeuroImage: Clinical.36, 103269. [PMID: 36451371](10.1016/j.nicl.2022.103269)
+* **Gallucci J.**, Pomarol-Clotet E., Voineskos A.N., Guerrero-Pedraza A., Alonso-Lana S., Vieta E., Salvador R., Hawco C., 2022. Longer illness duration is associated with greater individual variability in functional brain activity in schizophrenia, but not bipolar disorder, NeuroImage: Clinical.36, 103269. [PMID: 36451371](10.1016/j.nicl.2022.103269)
    
-1) **Gallucci J.**, Tan T., Schifani C., Dickie E.W., Voineskos A.N., Hawco C., 2022. Greater individual variability in functional brain activity during working memory performance in Schizophrenia Spectrum Disorders (SSD). Schizophrenia Research. 248, 21–31. [PMID:35908378](10.1016/j.schres.2022.07.012)
-
+* **Gallucci J.**, Tan T., Schifani C., Dickie E.W., Voineskos A.N., Hawco C., 2022. Greater individual variability in functional brain activity during working memory performance in Schizophrenia Spectrum Disorders (SSD). Schizophrenia Research. 248, 21–31. [PMID:35908378](10.1016/j.schres.2022.07.012)
 
   
 Oral Presentations
