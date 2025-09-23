@@ -24,13 +24,9 @@ repository               : "juliagallucci.github.io"
 author:
   # Biographic information
   avatar           : "headshot.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Julia Gallucci"
+  employer         : "University of Toronto"
+  email            : "julia.gallucci@mail.utoronto.ca" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=9Kbn-9oAAAAJ&hl=en"
