@@ -213,6 +213,7 @@ redirect_from:
 
 | Year | Training |
 |------|---------|
+| 2025 | Using MarkUs for Computing and Data Science Assessments Workshop [Teaching] |
 | 2025 | Integrating Programming into Biology and Neuroscience Courses Workshop [Teaching] |
 | 2024 | Teaching Assistants’ Training Program (TATP) Online Technology Student Engagement [Teaching] |
 | 2024 | TATP Laboratories/Practicals [Teaching] |
