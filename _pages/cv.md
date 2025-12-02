@@ -32,6 +32,7 @@ redirect_from:
 
 | Term        | Course |
 |------------|-----------------|
+| 2026 Winter | Introduction to Python Workshop [1 week intensive], Data Science Institute |
 | 2026 Winter | Linear regression, classification, and resampling, Data Learning Certificate, Data Science Institute |
 | 2025 Fall   | Linear regression, classification, and resampling, Data Learning Certificate, Data Science Institute |
 | 2025 Summer | Linear regression, classification, and resampling, Data Learning Certificate, Data Science Institute |
@@ -95,6 +96,7 @@ redirect_from:
 
 | Term        | Description |
 |------------|-------------|
+| 2025/11 – 2025/12 | Content developer, Introductory Python Tutorials (CJH322: Cellular & Molecular Neurobiology of the Synapse), Department of Cell & Systems Biology |
 | 2025/05 – 2025/08 | Content developer, Topics in Statistical Learning – Regularization, Splines and Trees, Data Learning Certificate, Data Science Institute [GitHub Repository](https://github.com/UofT-DSI/regularization_splines_trees) |
 | 2024/07 – 2024/12 | Content developer, Topics in Statistical Learning – Linear regression, classification, and resampling, Data Learning Certificate, Data Science Institute [GitHub Repository](https://github.com/UofT-DSI/LCR) |
 | 2024/02 | Content developer, Topics in Deep Learning – Healthcare, medicine, and the life sciences, Data Learning Certificate, Data Science Institute [GitHub Repository](https://github.com/UofT-DSI/deep_learning_topics) |
