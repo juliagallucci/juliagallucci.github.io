@@ -113,6 +113,7 @@ redirect_from:
 
 | Year | Award |
 |------|-------|
+| 2026 | Society of Biological Psychiatry Travel Award [USD $2,000] |
 | 2025 | Queen Elizabeth II/Greg M. Brown Graduate Scholarships in Science and Technology [$15,000] |
 | 2025 | Department of Psychiatry Research Day Best Presentation by Graduate Student Award [$500] |
 | 2024 | Brain Canada Foundation Rising Star Award in Mental Health Research [$12,000] |
@@ -181,21 +182,22 @@ redirect_from:
 
 | Year | Presentation |
 |------|-------------|
+| 2026 | Replicable Subgroups of Youth with Distressing Psychotic-Like Experiences via Multimodal Data Fusion. Society of Biological Psychiatry (SOBP), New York, U.S.A. [upcoming] |
 | 2026 | Replicable Subgroups of Youth with Distressing Psychotic-Like Experiences via Multimodal Data Fusion. American College of Neuropsychopharmacology (ACNP), Nassau, Bahamas. [upcoming] |
-| [2025](https://www.dropbox.com/scl/fi/0062usyyw1oxjo4h6t369/ALLEN_2025.pdf?rlkey=upxrzncwhcw9ywygrnfkmdi46&st=q746bj5d&dl=0) | Integrating Publicly Open Datasets and Coding into Neuroscience Education: Strategies for Large Undergraduate Courses. Allen Institute for the Open Science in Undergraduate Education Symposium, Seattle, U.S.A. |
-| [2025](https://www.dropbox.com/scl/fi/q2h8hmhofvy4fdv8zt869/SOBP_POSTER_2025.pdf?rlkey=duel0rs4y5d46l5i120gr0vpb&st=44qmdyvr&dl=0) | Neurobiological Clusters of Youth with Distressing Psychotic-Like Experiences. Society of Biological Psychiatry (SOBP), Toronto, Canada. |
-| [2025](https://www.dropbox.com/scl/fi/4jieq20s05gulz2iq9bw5/SIRS_POSTER_2025.pdf?rlkey=pikbt5wecrpuhp25sodcfhy37&st=5xtcjgy4&dl=0) | A systematic review of structural and functional magnetic resonance imaging studies on the neurobiology of depressive symptoms in schizophrenia spectrum disorders. Schizophrenia International Research Society (SIRS), Chicago, U.S.A. |
-| [2024](https://www.dropbox.com/scl/fi/0z3otws32zqb84lnvx2v9/SOBP_POSTER_2024.pdf?rlkey=mcxx7ypiubxzrrjq3b4u8u3vg&st=fpzmselh&dl=0) | Neural Circuitry and Therapeutic Targeting of Depressive Symptoms in Schizophrenia Spectrum Disorders. Society of Biological Psychiatry (SOBP), Austin, U.S.A. |
-| [2024](https://www.dropbox.com/scl/fi/14vxywp86mz8q5mdax9zx/IMNO_POSTER.pdf?rlkey=0eyuakfsuxuh8rudye1h0aqye&st=mjzkpyqw&dl=0)| Neural Circuitry and Therapeutic Targeting of Depressive Symptoms in Schizophrenia Spectrum Disorders. Cognitive Neuroscience Society (CNS), Toronto, Canada. |
-| [2024](https://www.dropbox.com/scl/fi/14vxywp86mz8q5mdax9zx/IMNO_POSTER.pdf?rlkey=0eyuakfsuxuh8rudye1h0aqye&st=mjzkpyqw&dl=0) | Neural Circuitry and Therapeutic Targeting of Depressive Symptoms in Schizophrenia Spectrum Disorders. Schizophrenia International Research Society (SIRS), Florence, Italy. **– supported by travel award** |
-| [2024](https://www.dropbox.com/scl/fi/14vxywp86mz8q5mdax9zx/IMNO_POSTER.pdf?rlkey=0eyuakfsuxuh8rudye1h0aqye&st=mjzkpyqw&dl=0) | Neural Circuitry and Therapeutic Targeting of Depressive Symptoms in Schizophrenia Spectrum Disorders. Imaging Network Ontario (ImNO), Toronto, Canada. **– poster pitch award** |
-| [2023](https://www.dropbox.com/scl/fi/slie9uu006l3grh0u5pwb/OHBM_POSTER_2023.pdf?rlkey=ll12mh381820137lke1v19yue&st=dcwoi4vo&dl=0) | Longer Illness Duration is Associated with Greater Individual Variability in Functional Brain Activity in Schizophrenia, But Not Bipolar Disorder. Organization for Human Brain Mapping (OHBM), Montreal, Canada. |
-| [2023](https://www.dropbox.com/scl/fi/slie9uu006l3grh0u5pwb/OHBM_POSTER_2023.pdf?rlkey=ll12mh381820137lke1v19yue&st=dcwoi4vo&dl=0) | Longer Illness Duration is Associated with Greater Individual Variability in Functional Brain Activity in Schizophrenia, But Not Bipolar Disorder. Schizophrenia International Research Society (SIRS), Toronto, Canada. **– poster finalist** |
-| [2023](https://www.dropbox.com/scl/fi/slie9uu006l3grh0u5pwb/OHBM_POSTER_2023.pdf?rlkey=ll12mh381820137lke1v19yue&st=dcwoi4vo&dl=0) | Longer Illness Duration is Associated with Greater Individual Variability in Functional Brain Activity in Schizophrenia, But Not Bipolar Disorder. Society of Biological Psychiatry (SOBP), San Diego, U.S.A. **– supported by travel award** |
-| [2022](https://www.dropbox.com/scl/fi/rsohb0fu9qh5q41c07bqs/CAMH2022_Research_Day_Poster.pdf?rlkey=aiqa4z4oj553fkgbnge9nponi&st=gng9z5km&dl=0) | Longer Illness Duration is Associated with Greater Individual Variability in Functional Brain Activity in Schizophrenia, But Not Bipolar Disorder. CAMH Research Day, Toronto [virtual]. |
-| [2022](https://www.dropbox.com/scl/fi/wylgq4sxnrg5lo2av1gs6/SIRS_POSTER_2022.pdf?rlkey=vhhetnd014pgvgoaj0genw30u&st=ngqma83f&dl=0) | Greater Individual Variability in Functional Brain Activity during Working Memory Performance in Schizophrenia Spectrum Disorders (SSD), University of Toronto Institute of Medical Science Scientific Day, Toronto, Canada. |
-| [2022](https://www.dropbox.com/scl/fi/wylgq4sxnrg5lo2av1gs6/SIRS_POSTER_2022.pdf?rlkey=vhhetnd014pgvgoaj0genw30u&st=ngqma83f&dl=0) | Greater Individual Variability in Functional Brain Activity during Working Memory Performance in Schizophrenia Spectrum Disorders (SSD), Schizophrenia International Research Society (SIRS), Florence, Italy. **– poster finalist** |
-| [2021](https://www.dropbox.com/scl/fi/2d7js584gkykpc4rmahwy/psychiatric_research_day_poster_.pdf?rlkey=k6p8h5vag917yurbfwi9xfi0f&st=ics4ta1m&dl=0) | Individual Variability in Functional Brain Activity during Working Memory Performance in Schizophrenia Spectrum Disorders (SSD). University of Toronto Department of Psychiatry Research Day, Toronto, Canada [virtual]. |
+| 2025 | Integrating Publicly Open Datasets and Coding into Neuroscience Education: Strategies for Large Undergraduate Courses. Allen Institute for the Open Science in Undergraduate Education Symposium, Seattle, U.S.A. |
+| 2025 | Neurobiological Clusters of Youth with Distressing Psychotic-Like Experiences. Society of Biological Psychiatry (SOBP), Toronto, Canada. |
+| 2025 | A systematic review of structural and functional magnetic resonance imaging studies on the neurobiology of depressive symptoms in schizophrenia spectrum disorders. Schizophrenia International Research Society (SIRS), Chicago, U.S.A. |
+| 2024 | Neural Circuitry and Therapeutic Targeting of Depressive Symptoms in Schizophrenia Spectrum Disorders. Society of Biological Psychiatry (SOBP), Austin, U.S.A. |
+| 2024| Neural Circuitry and Therapeutic Targeting of Depressive Symptoms in Schizophrenia Spectrum Disorders. Cognitive Neuroscience Society (CNS), Toronto, Canada. |
+| 2024 | Neural Circuitry and Therapeutic Targeting of Depressive Symptoms in Schizophrenia Spectrum Disorders. Schizophrenia International Research Society (SIRS), Florence, Italy. **– supported by travel award** |
+| 2024 | Neural Circuitry and Therapeutic Targeting of Depressive Symptoms in Schizophrenia Spectrum Disorders. Imaging Network Ontario (ImNO), Toronto, Canada. **– poster pitch award** |
+| 2023 | Longer Illness Duration is Associated with Greater Individual Variability in Functional Brain Activity in Schizophrenia, But Not Bipolar Disorder. Organization for Human Brain Mapping (OHBM), Montreal, Canada. |
+| 2023 | Longer Illness Duration is Associated with Greater Individual Variability in Functional Brain Activity in Schizophrenia, But Not Bipolar Disorder. Schizophrenia International Research Society (SIRS), Toronto, Canada. **– poster finalist** |
+| 2023 | Longer Illness Duration is Associated with Greater Individual Variability in Functional Brain Activity in Schizophrenia, But Not Bipolar Disorder. Society of Biological Psychiatry (SOBP), San Diego, U.S.A. **– supported by travel award** |
+| 2022 | Longer Illness Duration is Associated with Greater Individual Variability in Functional Brain Activity in Schizophrenia, But Not Bipolar Disorder. CAMH Research Day, Toronto [virtual]. |
+| 2022 | Greater Individual Variability in Functional Brain Activity during Working Memory Performance in Schizophrenia Spectrum Disorders (SSD), University of Toronto Institute of Medical Science Scientific Day, Toronto, Canada. |
+| 2022 | Greater Individual Variability in Functional Brain Activity during Working Memory Performance in Schizophrenia Spectrum Disorders (SSD), Schizophrenia International Research Society (SIRS), Florence, Italy. **– poster finalist** |
+| 2021 | Individual Variability in Functional Brain Activity during Working Memory Performance in Schizophrenia Spectrum Disorders (SSD). University of Toronto Department of Psychiatry Research Day, Toronto, Canada [virtual]. |
 
 **Invited Talks & Guest Lectures**
 
