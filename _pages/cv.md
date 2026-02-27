@@ -32,6 +32,8 @@ redirect_from:
 
 | Term        | Course |
 |------------|-----------------|
+| 2026 Summer | Linear regression, classification, and resampling, Data Learning Certificate, Data Science Institute |
+| 2026 Summer | Introduction to Python, Data Learning Certificate, Data Science Institute |
 | 2026 Winter | Introduction to Python Workshop [1 week intensive], Data Science Institute |
 | 2026 Winter | Linear regression, classification, and resampling, Data Learning Certificate, Data Science Institute |
 | 2025 Fall   | Linear regression, classification, and resampling, Data Learning Certificate, Data Science Institute |
@@ -96,6 +98,7 @@ redirect_from:
 
 | Term        | Description |
 |------------|-------------|
+| 2025/03 - 2026/04 | Content developer, Introductory R Modules, Department of Human Biology | 
 | 2025/11 – 2025/12 | Content developer, Introductory Python Tutorials (CJH322: Cellular & Molecular Neurobiology of the Synapse), Department of Cell & Systems Biology |
 | 2025/05 – 2025/08 | Content developer, Topics in Statistical Learning – Regularization, Splines and Trees, Data Learning Certificate, Data Science Institute [GitHub Repository](https://github.com/UofT-DSI/regularization_splines_trees) |
 | 2024/07 – 2024/12 | Content developer, Topics in Statistical Learning – Linear regression, classification, and resampling, Data Learning Certificate, Data Science Institute [GitHub Repository](https://github.com/UofT-DSI/LCR) |
@@ -113,6 +116,7 @@ redirect_from:
 
 | Year | Award |
 |------|-------|
+| 2026 | Nominated for the TATP TA Teaching Excellence Award | 
 | 2026 | Society of Biological Psychiatry Travel Award [USD $2,000] |
 | 2025 | Queen Elizabeth II/Greg M. Brown Graduate Scholarships in Science and Technology [$15,000] |
 | 2025 | Department of Psychiatry Research Day Best Presentation by Graduate Student Award [$500] |
@@ -182,8 +186,8 @@ redirect_from:
 
 | Year | Presentation |
 |------|-------------|
-| 2026 | Replicable Subgroups of Youth with Distressing Psychotic-Like Experiences via Multimodal Data Fusion. Society of Biological Psychiatry (SOBP), New York, U.S.A. [upcoming] |
-| 2026 | Replicable Subgroups of Youth with Distressing Psychotic-Like Experiences via Multimodal Data Fusion. American College of Neuropsychopharmacology (ACNP), Nassau, Bahamas. [upcoming] |
+| 2026 | Replicable Subgroups of Youth with Distressing Psychotic-Like Experiences via Multimodal Data Fusion. Society of Biological Psychiatry (SOBP), New York, U.S.A. [upcoming]  **– supported by travel award** |
+| 2026 | Replicable Subgroups of Youth with Distressing Psychotic-Like Experiences via Multimodal Data Fusion. American College of Neuropsychopharmacology (ACNP), Nassau, Bahamas. |
 | 2025 | Integrating Publicly Open Datasets and Coding into Neuroscience Education: Strategies for Large Undergraduate Courses. Allen Institute for the Open Science in Undergraduate Education Symposium, Seattle, U.S.A. |
 | 2025 | Neurobiological Clusters of Youth with Distressing Psychotic-Like Experiences. Society of Biological Psychiatry (SOBP), Toronto, Canada. |
 | 2025 | A systematic review of structural and functional magnetic resonance imaging studies on the neurobiology of depressive symptoms in schizophrenia spectrum disorders. Schizophrenia International Research Society (SIRS), Chicago, U.S.A. |
@@ -203,7 +207,7 @@ redirect_from:
 
 | Year | Talk / Lecture |
 |------|----------------|
-| 2026 | Department of Psychiatry Clinician-Scientist Program Invited Speaker | “How to Give a Scientific Presentation Seminar” [upcoming] |
+| 2026 | Department of Psychiatry Clinician-Scientist Program Invited Speaker | “How to Give a Scientific Presentation Seminar”|
 | 2024 | Introduction to Neuroscience (HMB200) Guest Lecture | ‘Neuroimaging – Focus on Structural and Functional Magnetic Resonance Imaging’ |
 | 2024 | Institute of Medical Science Scientific Day Panelist | Schizophrenia Research Panel |
 | 2023 | CAMH Trainee Seminar Series | ‘Uncovering the Separable Dimensions of Depressive and Negative Symptoms in Schizophrenia Spectrum Disorders: Neural Circuitry and Clinical Implications’ |
