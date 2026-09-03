@@ -16,7 +16,7 @@ redirect_from:
 
 ### EDUCATION
 
-**Doctor of Philosophy**, Institute of Medical Science, University of Toronto (2022 – present)  
+**Doctor of Philosophy**, Institute of Medical Science, University of Toronto (2022 – 2026)  
 *Supervisors: Dr. Aristotle Voineskos and Dr. Colin Hawco*
 
 **Master of Science**, Institute of Medical Science, University of Toronto (2020 – 2022)  
@@ -27,11 +27,20 @@ redirect_from:
 ---
 
 ### TEACHING
-
-**Course Instructor – University of Toronto**
-
+**Assistant Professor – Human-Centered Data Science (HCDS), Faculty of Information (iSchool) University of Toronto**
 | Term        | Course |
 |------------|-----------------|
+| 2026 Fall | INF2167 R for Data Science | 
+| 2026 Fall | INF2179 Machine Learning with Applications in Python | 
+| 2027 Winter | INF412 Data Analytics: Informed Decisions with Data | 
+| 2027 Winter | INF2210 Human Values in Data Science | 
+
+**Course Instructor – University of Toronto**
+| Term        | Course |
+|------------|-----------------|
+| 2026 Summer | Introduction to Python Workshop [1 week intensive], Data Science Institute |
+| 2026 Summer | Introduction to Python Workshop [1 week intensive], The Political Accountability, Transparency, and Representation Oversight Network (PATRON) project  |
+| 2026 Summer | Introduction to R, Summer Undergraduate Data Science (SUDS) Research Program Bootcamp [1-day intensive] |
 | 2026 Summer | Linear regression, classification, and resampling, Data Learning Certificate, Data Science Institute |
 | 2026 Summer | Introduction to Python, Data Learning Certificate, Data Science Institute |
 | 2026 Winter | Introduction to Python Workshop [1 week intensive], Data Science Institute |
@@ -112,6 +121,26 @@ redirect_from:
 
 ---
 
+
+### ADDITIONAL TRAINING
+
+| Year | Training |
+|------|---------|
+| 2026 | CTSI Workshop Tune into Teaching: Setting the Tone for Success Strategies for the First Day of Class and Beyond [Teaching] |
+| 2026 | CTSI Workshop Introduction to Cogniti: U of T’s AI Tool to Support Student Learning [Teaching]|
+| 2026 | CTSI Workshop Cogniti Onboarding: Setting Up Your AI Tool for Student Use [Teaching]|
+| 2026 | CTSI Workshop Tune into Teaching: Designing for Inclusion with Quercus and the Academic Toolbox [Teaching]|
+| 2026 | CTSI Workshop Quercus Home Page Foundations [Teaching]|
+| 2026 | CTSI Workshop Customizing Cogniti: Aligning for Different Learning Goals [Teaching]|
+| 2025 | Using MarkUs for Computing and Data Science Assessments Workshop [Teaching] |
+| 2025 | Integrating Programming into Biology and Neuroscience Courses Workshop [Teaching] |
+| 2024 | Teaching Assistants’ Training Program (TATP) Online Technology Student Engagement [Teaching] |
+| 2024 | TATP Laboratories/Practicals [Teaching] |
+| 2024 | TATP Discussion-Based Tutorials [Teaching] |
+| 2024 | TATP Grading [Teaching] |
+| 2023 | BrainHack Toronto Summer School [Computational] |
+
+
 ### RECOGNITIONS
 
 | Year | Award |
@@ -150,6 +179,7 @@ redirect_from:
 
 | #  | Authors | Year | Journal | Link |
 |----|---------|------|---------|------|
+| 12  | Oliver, L.D., Blumberger, D.M., Deng, Z.-D., Hawco, C., Dickie, E.W., Gallucci, J., Jeyachandra, J., Mansour, S., Hare, S.M., Gold, J.M., Foussias, G., Argyelan, M., Daskalakis, Z J., Buchanan, R.W., Malhotra, A.K., & Voineskos, A.N., 2026. Effects of Personalized Transcranial Magnetic Stimulation on Social Cognitive Network Functional Connectivity in Schizophrenia Spectrum Disorders: A Double-Blind, Randomized, Sham-Controlled Target Engagement Trial. Brain Stimulation | 2026 | Brain Stimulation | [Link](https://doi.org/10.1016/j.brs.2026.103172) |
 | 11  | Bagheri S., Yu J.C., **Gallucci J.**, Tan V., Oliver L.D., Dickie E.W., Rashidi A.G., Foussias G., Lai M., Buchanan R.W., Malhotra A.K., Voineskos A.N., Ameis S.H., Hawco C. | 2025 | Biological Psychiatry CNNI | [Link](https://www.sciencedirect.com/science/article/abs/pii/S2451902225001326?via%3Dihub) |
 | 10  | Ramsaran A.I., Ventura S., **Gallucci J.**, de Snoo M.L., Josselyn S.A., Frankland P.W. | 2025 | Current Biology | [Link](https://doi.org/10.1016/j.cub.2025.03.032) |
 | 9  | Jones B.D.M., **Gallucci J.**, Zhukovsky P., Jones O.Y., Wong S., Lakhani K., Farooqui R., Stripe L., Love P., Voineskos A.N., Ortiz A., Hawco C., Mulsant B.H., Husain M.I. | 2025 | Neuropsychopharmacology | [Link](https://www-nature-com.myaccess.library.utoronto.ca/articles/s41386-025-02096-1) |
@@ -167,6 +197,7 @@ redirect_from:
 | # | Title |
 |---|-------|
 | [1](https://tspace.library.utoronto.ca/handle/1807/125233) | Gallucci J. (2022) Individual Variability in Functional Brain Activity during Working Memory Performance in Schizophrenia Spectrum Disorders (SSD) |
+| [2](https://utoronto.scholaris.ca/items/a473b122-991a-4b86-8cae-abb6f28f0fd3) | Gallucci J. (2026) Disentangling Neurobiological and Clinical Heterogeneity in Youth and Adults Along the Psychosis Spectrum |
 
 ---
 
@@ -186,7 +217,7 @@ redirect_from:
 
 | Year | Presentation |
 |------|-------------|
-| 2026 | Replicable Subgroups of Youth with Distressing Psychotic-Like Experiences via Multimodal Data Fusion. Society of Biological Psychiatry (SOBP), New York, U.S.A. [upcoming]  **– supported by travel award** |
+| 2026 | Replicable Subgroups of Youth with Distressing Psychotic-Like Experiences via Multimodal Data Fusion. Society of Biological Psychiatry (SOBP), New York, U.S.A.  **– supported by travel award** |
 | 2026 | Replicable Subgroups of Youth with Distressing Psychotic-Like Experiences via Multimodal Data Fusion. American College of Neuropsychopharmacology (ACNP), Nassau, Bahamas. |
 | 2025 | Integrating Publicly Open Datasets and Coding into Neuroscience Education: Strategies for Large Undergraduate Courses. Allen Institute for the Open Science in Undergraduate Education Symposium, Seattle, U.S.A. |
 | 2025 | Neurobiological Clusters of Youth with Distressing Psychotic-Like Experiences. Society of Biological Psychiatry (SOBP), Toronto, Canada. |
@@ -214,18 +245,6 @@ redirect_from:
 | 2023 | Introduction to Neuroscience (HMB200) Guest Lecture | ‘Greater Individual Variability of Functional Brain Activity during Working Memory Performance in Schizophrenia Spectrum Disorders (SSD)’ |
 | 2022 | Introduction to Neuroscience (HMB200) Guest Lecture | ‘Greater Individual Variability of Functional Brain Activity during Working Memory Performance in Schizophrenia Spectrum Disorders (SSD)’ |
 | 2021 | CAMH Trainee Seminar Series | ‘Individual Variability in Functional Brain Activity during Working Memory Performance in Schizophrenia Spectrum Disorders (SSD)’ |
-
-### ADDITIONAL TRAINING
-
-| Year | Training |
-|------|---------|
-| 2025 | Using MarkUs for Computing and Data Science Assessments Workshop [Teaching] |
-| 2025 | Integrating Programming into Biology and Neuroscience Courses Workshop [Teaching] |
-| 2024 | Teaching Assistants’ Training Program (TATP) Online Technology Student Engagement [Teaching] |
-| 2024 | TATP Laboratories/Practicals [Teaching] |
-| 2024 | TATP Discussion-Based Tutorials [Teaching] |
-| 2024 | TATP Grading [Teaching] |
-| 2023 | BrainHack Toronto Summer School [Computational] |
 
 
 
